@@ -43,8 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CupoonNo.cs" />
+    <Compile Include="Fibonacci.cs" />
+    <Compile Include="MonthlyPayment.cs" />
+    <Compile Include="PerfectNo.cs" />
+    <Compile Include="PrimeNo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReverseNum.cs" />
+    <Compile Include="StopManuallyTime.cs" />
+    <Compile Include="SwapNib.cs" />
+    <Compile Include="TempertatureConversion.cs" />
+    <Compile Include="VendingMachine.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
